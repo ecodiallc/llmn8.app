@@ -38,6 +38,11 @@ without an account, a server, or telemetry.
 - API keys are stored in the operating system's keychain
 - Network activity is limited to the AI providers you configure
 
+## Support
+
+- [Discussions](https://github.com/ecodiallc/llmn8.app/discussions) — questions, help and feature requests
+- [Issues](https://github.com/ecodiallc/llmn8.app/issues) — bug reports
+
 ## Availability
 
 LLM N8 is coming soon to the App Store and Google Play.
