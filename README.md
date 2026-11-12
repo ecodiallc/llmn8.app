@@ -1,5 +1,7 @@
 # Every model. One clear picture.
 
+![image](llmn8-logo.png)
+
 **[LLM N8](https://llmn8.app)**
 
 ## AI usage, spend and budgets — all on your device.
